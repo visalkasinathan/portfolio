@@ -19,7 +19,7 @@ This site is not just a static resume! It’s a single-page web application made
 
 ## 📌 Live Preview
 
-**[See it live](https://visalkasinathan.github.io/visalpk-portfolio/)**  
+**[See it live](https://visalkasinathan.github.io/portfolio/)**  
 *(or open `index.html` locally in your browser)*
 
 ## 👨‍💻 Tech Stack
